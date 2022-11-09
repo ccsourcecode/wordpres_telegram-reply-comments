@@ -36,11 +36,12 @@ Basic Auth 就是在 HTTP 請求頭裡加上 base64 編碼之後的認證信息�
 -c 指定配置文件路徑，默認使用當前目錄下的 config.json
 
 -f 強制運行，哪怕是 http 的……
-
+```
 -c file set configuration file (default "config.json")
 -f force to run even on http sites.
 -h this help
 -v show version and exit
+```
 
 # Requirements
 1. WordPress native comment system.
